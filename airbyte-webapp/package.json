@@ -18,7 +18,7 @@
     "@papercups-io/chat-widget": "^1.1.5",
     "@papercups-io/storytime": "^1.0.6",
     "@rest-hooks/legacy": "^2.0.5",
-    "dayjs": "^1.8.35",
+    "dayjs": "^1.10.6",
     "flat": "^5.0.2",
     "formik": "2.1.5",
     "lodash.at": "^4.6.0",
